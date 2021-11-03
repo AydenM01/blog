@@ -3,4 +3,4 @@ layout: page
 title: About me 
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+I am a student at the Georgia Institute of Technology pursuing a BS/MS in Computer Science.
