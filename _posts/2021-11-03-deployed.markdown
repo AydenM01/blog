@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Deployed"
+date:   2021-11-03 4:51:00
+categories: Thoughts
+---
+
+Netlify is cool
+
+So ended up deploying this site with Netlify instead of Github Pages, also registered my custom DNS and got it to be HTTPS, which is nice.
+
+I have never been good at DevOps stuff, so I obviously had to fix some errors during this deployment. I learned how bundler and Gemfiles work, and it seems like a cool dependency management schema. I also successfully configured Netlify to auto-deploy the repo whenever the master branch is updated on Github, so the live site will always be up-to-date.
+
+Update with school:
+I decided to make a last minute change to my threads, which will have me take more courses related to databases, networking, and internet applications. I hope these courses will help me become a better full stack / web developer, as I feel like they are a bit more relevant to my career than Deep Learning / Robotics would be.
+
+I am excited for what the future holds!
