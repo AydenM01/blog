@@ -3,4 +3,6 @@ layout: page
 title: About me 
 ---
 
-I am a student at the Georgia Institute of Technology pursuing a BS/MS in Computer Science.
+I'm just a guy trying to navigate the maze of full-stack development.
+
+![me](/assets/images/me.png)
